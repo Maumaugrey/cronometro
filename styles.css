@@ -1,0 +1,43 @@
+body{
+    padding: 0;
+    font-family: 'Courgette', cursive;
+    background: #000000;  
+    background: -webkit-linear-gradient(to right, #434343, #000000);  
+    background: linear-gradient(to right, #434343, #000000); 
+
+}
+
+h1{
+    color: white;
+}
+
+div{
+    text-align: center;
+    
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+
+button{
+
+    height: 2.5em;
+    width: 5.5em;
+    border: none;
+}
+
+.start-btn{
+    background-color:grey;
+}
+
+.pause-btn{
+    background-color: grey;
+}
+
+.stop-btn{
+    background-color: grey;
+}
+
+
